@@ -1,7 +1,7 @@
 # Vocallabs.ai — Product Teardown
 
 **Submitted by:** Geisha Polishetty
-**Deadline:** 31 May 2026
+
 **Tested on:** Web (Chrome) + Android app
 
 ---
@@ -107,7 +107,7 @@ Build native one-click integrations with Zoho and Leadsquared first — that's w
 
 - 📄 [Full report (Word doc)]([Vocallabs_Product_Teardown_GeishaP.docx](https://github.com/user-attachments/files/28423670/Vocallabs_Product_Teardown_GeishaP.docx)[Vocallabs_Product_Teardown_GeishaP.docx](https://github.com/user-attachments/files/28423698/Vocallabs_Product_Teardown_GeishaP.docx)
 
-)
+
 
 
 ---
