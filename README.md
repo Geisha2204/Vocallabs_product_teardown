@@ -26,7 +26,7 @@ A user's very first interaction with the product is an error. In a category wher
 Fix the redirect URL in the email verification handler. Add signup funnel monitoring so this gets caught in analytics, not by a user complaint.
 
 **Priority:** Critical (P0)
-**Screenshot:** [f1-email-verification-error.png](<img width="1916" height="929" alt="Screenshot 2026-05-30 185145" src="https://github.com/user-attachments/assets/572ec6fd-7e8c-4680-9e36-c7b7594b66bd" />)
+
 
 ---
 
@@ -42,8 +42,6 @@ Target customers — small business owners and growth teams — want to evaluate
 Fix the demo environment or replace it with a pre-recorded walkthrough until it's stable. Publish three-tier pricing with INR amounts alongside it so buyers have both pieces of information they need to make a decision.
 
 **Priority:** High
-**Screenshots:** [f2-blank-pricing-page.png](screenshots/f2-blank-pricing-page.p<img width="1598" height="942" alt="Screenshot 2026-05-30 194315" src="https://github.com/user-attachments/assets/26dedb80-9f44-4cde-88f9-daae1bc10c59" />) | [f2-broken-demo.png](<img width="1789" height="837" alt="Screenshot 2026-05-30 193806" src="https://github.com/user-attachments/assets/52960241-906e-4b17-a07c-f3edee1356e1" />
-)
 
 ---
 
@@ -107,9 +105,10 @@ Build native one-click integrations with Zoho and Leadsquared first — that's w
 
 ## Supporting Files
 
-- 📄 [Full report (Word doc)]([Vocallabs_Product_Teardown_GeishaP.docx](https://github.com/user-attachments/files/28423670/Vocallabs_Product_Teardown_GeishaP.docx)
+- 📄 [Full report (Word doc)]([Vocallabs_Product_Teardown_GeishaP.docx](https://github.com/user-attachments/files/28423670/Vocallabs_Product_Teardown_GeishaP.docx)[Vocallabs_Product_Teardown_GeishaP.docx](https://github.com/user-attachments/files/28423698/Vocallabs_Product_Teardown_GeishaP.docx)
+
 )
-- 📸 Screenshots in [/screenshots](screenshots/)
+
 
 ---
 
